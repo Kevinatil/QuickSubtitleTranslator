@@ -1,0 +1,24 @@
+{
+    "llm": {
+        "doubao": {
+            "llm_url": "",
+            "tokenizer_url": "",
+            "api_key": ""
+        },
+        "glm": {
+            "llm_url": "",
+            "tokenizer_url": "",
+            "api_key": ""
+        },
+        "kimi": {
+            "llm_url": "",
+            "tokenizer_url": "",
+            "api_key": ""
+        },
+        "qwen": {
+            "llm_url": "",
+            "tokenizer_url": "",
+            "api_key": ""
+        }
+    }
+}
